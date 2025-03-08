@@ -1,0 +1,74 @@
+Q: What areas do you deliver to?  
+A: We currently deliver to major cities. Enter your address in the app to check availability.  
+
+Q: What are your delivery hours?  
+A: We deliver daily from 8:00 AM to 11:00 PM. Some restaurants may have different hours.  
+
+Q: How do I place an order?  
+A: Open the app, choose a restaurant, select your items, and proceed to checkout.  
+
+Q: Can I schedule an order for later?  
+A: Yes, you can schedule orders for a specific time during checkout.  
+
+Q: What payment methods do you accept?  
+A: We accept credit/debit cards, UPI, and cash on delivery (COD) in some locations.  
+
+Q: How do I track my order?  
+A: Go to "My Orders" in the app to see real-time tracking of your delivery.  
+
+Q: How long does delivery take?  
+A: Average delivery time is 30-45 minutes, depending on the restaurant and traffic.  
+
+Q: Can I cancel my order after placing it?  
+A: Orders can only be canceled before the restaurant starts preparing them.  
+
+Q: What happens if my order is incorrect or missing items?  
+A: Please contact support immediately, and we will resolve the issue with a refund or replacement.  
+
+Q: How do I contact customer support?  
+A: You can reach us via live chat in the app, email at support@example.com, or call +123456789.  
+
+Q: Do you have a rewards or loyalty program?  
+A: Yes! Earn points for every order and redeem them for discounts.  
+
+Q: How do I apply a promo code?  
+A: Enter the promo code during checkout to apply the discount.  
+
+Q: What if the restaurant is taking too long to prepare my food?  
+A: Contact our support team, and we will coordinate with the restaurant to get an update.  
+
+Q: Can I change my delivery address after placing an order?  
+A: Address changes are only possible if the order has not been assigned to a delivery partner.  
+
+Q: What if I have food allergies?  
+A: Check the menu for allergy information or contact the restaurant before ordering.  
+
+Q: Do you offer contactless delivery?  
+A: Yes, select "Contactless Delivery" at checkout, and the driver will leave your food at the door.  
+
+Q: Can I order from multiple restaurants in one order?  
+A: Currently, we only support one restaurant per order.  
+
+Q: What should I do if I have an issue with my payment?  
+A: Please check with your bank or payment provider. If the issue persists, contact our support team.  
+
+Q: Do you offer refunds?  
+A: Refunds are issued for missing, incorrect, or canceled orders. Contact support for assistance.  
+
+Q: How do I become a delivery partner?  
+A: Visit our website and apply under the "Join as a Delivery Partner" section.  
+
+Q: How do I update my profile and saved addresses?  
+A: Go to "Account Settings" in the app to update your details.  
+
+Q: What if my order arrives late?  
+A: We apologize for the delay. Please contact support for assistance or possible compensation.  
+
+Q: How do I report a problem with a restaurant or delivery partner?  
+A: Use the "Report an Issue" option in the app or contact customer support.  
+
+Q: Can I order food for someone else?  
+A: Yes! Just enter their delivery address and contact details at checkout.  
+
+Q: Is there a minimum order amount?  
+A: Some restaurants have a minimum order requirement, which will be displayed at checkout.  
