@@ -33,15 +33,6 @@ FoodBot is an AI-powered chatbot designed to assist users with their food delive
 
 ---
 
-## 📅 Add Your FAQ Data
-Create a `faq.txt` file containing common food delivery questions and answers:
-```txt
-Q: How do I track my order?
-A: Go to "My Orders" in the app to see real-time tracking of your delivery.  
-
-Q: What payment methods do you accept?
-A: We accept credit/debit cards, PayPal, and cash on delivery.
-```
 
 ### ▶️ Run the Chatbot
 ```bash
@@ -49,6 +40,22 @@ python chatbot.py
 ```
 
 ---
+
+
+## 📅 Updating Your FAQ Data
+The faq.txt file already exists, but if you want to add more FAQs, simply edit the file and append new questions and answers.
+
+```txt
+Q: How do I track my order?
+A: Go to "My Orders" in the app to see real-time tracking of your delivery.  
+
+Q: What payment methods do you accept?
+A: We accept credit/debit cards, PayPal, and cash on delivery.
+```
+Once updated, the chatbot will automatically use the new FAQ data when restarted. 🚀
+
+---
+
 
 ## 💡 How It Works
 
