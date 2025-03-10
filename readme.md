@@ -1,6 +1,6 @@
-# 🍔 FoodBot - AI-Powered Food Delivery Assistant
+# 🍔 OrderBot - AI-Powered Food Delivery Assistant
 
-FoodBot is an AI-powered chatbot designed to assist users with their food delivery queries. It leverages **FAISS** for efficient similarity search, **Sentence Transformers** for text embeddings, and **Ollama** for AI-generated responses.
+OrderBot is an AI-powered chatbot designed to assist users with their food delivery queries. It leverages **FAISS** for efficient similarity search, **Sentence Transformers** for text embeddings, and **Ollama** for AI-generated responses.
 
 ## 🚀 Features
 
