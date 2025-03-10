@@ -16,7 +16,7 @@ OrderBot is an AI-powered chatbot designed to assist users with their food deliv
 
 ### 1️⃣ Clone the Repository
 ```bash
-   git clone https://github.com/shenoy-dsouza/foodbot.git
+   git clone https://github.com/shenoy-dsouza/order-bot.git
    cd foodbot
 ```
 
